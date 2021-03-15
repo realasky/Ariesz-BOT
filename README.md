@@ -1,4 +1,4 @@
-# Drawl Nag
+# REALASKY •-•
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Arya274/Arya-BOT4
-> cd Arya-BOT4
+> git clone https://github.com/realasky/Ariesz-BOT
+> cd Ariesz-BOT
 > npm install
 ```
 ###### Run
@@ -25,8 +25,8 @@ Simple WhatsApp Bot
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/Arya274/Arya-BOT4
-> cd Arya-BOT4
+> git clone https://github.com/realasky/Ariesz-BOT
+> cd Ariesz-BOT
 > npm install
 ```
 ###### Run
@@ -34,7 +34,7 @@ Simple WhatsApp Bot
 > node index.js
 ```
 
-# Recode: Drawl Nag
+# Recode: REALASKY •-•
 Script: @Nurutomo
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
@@ -43,4 +43,4 @@ Script: @Nurutomo
 
 </p>
 
-OFFICIAL: [GITHUB](https://github.com/Arya274)
+OFFICIAL: [GITHUB](https://github.com/realasky)
